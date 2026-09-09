@@ -1,0 +1,29 @@
+# 核心深度学习与模型加载
+torch=2.1.0
+torchvision=0.16.0
+transformers=4.37.2
+sentence-transformers=2.2.2
+accelerate=0.25.0
+bitsandbytes=0.41.0
+
+# Web 后端
+fastapi=0.100.0
+uvicorn[standard]=0.23.2
+python-multipart=0.0.6
+
+# 图像与数值处理
+opencv-python=4.8.0
+Pillow=10.0.0
+numpy=1.24.3
+
+# 数据库与工具
+requests=2.33.1
+python-dateutil=2.9.0.post0
+
+# 前端 GUI（PyQt5）
+PyQt5=5.15.11
+
+# 语音识别（可选）
+vosk=0.3.45
+SpeechRecognition=3.16.0
+pyaudio=0.2.14
